@@ -7,3 +7,6 @@ The choice of image is up to you. Interesting functions include `(x+y)/2`, `x*y`
 (You need to use a loop to allocate each `[]uint8` inside the `[][]uint8.`)
 
 (Use `uint8(intValue)` to convert between types.)
+
+
+https://tour.golang.org/moretypes/18
